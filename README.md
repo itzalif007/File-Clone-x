@@ -12,4 +12,5 @@ pip install rich && pip install bs4
 
 git clone https://github.com/itzalif007/File-Clone-x/blob/Ahameed7/All-in-One.py
 cd File-Clone-x
+git pull
 python All-in-One.py
