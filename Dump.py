@@ -1,1 +1,1 @@
-import sop
+import 'sop'
